@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dh-illnesses"
+  site-url: "https://matt.github.io/dh-illnesses"
+  description: "Injuries and Illnesses"
+  repo-branch: main
+  repo-url: "https://github.com/matt/dh-illnesses"
