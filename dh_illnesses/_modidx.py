@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://matt.github.io',
                 'git_url': 'https://github.com/matt/dh-illnesses',
                 'lib_path': 'dh_illnesses'},
-  'syms': {'dh_illnesses.core': {'dh_illnesses.core.foo': ('core.html#foo', 'dh_illnesses/core.py')}}}
+  'syms': {'dh_illnesses.core': {}}}
