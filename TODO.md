@@ -10,7 +10,7 @@ Define Schemas to validate data and/or coerce variables into expected format (ba
 - [x] Read spreadsheet data into notebook
 - [x] Create a dictionary mapping datasets with relevant variables
 - [x] Read SPSS data into notebook and filter for relevant variables
-- [ ] Convert notebook into nbdev notebook (incorporate version control and documentation)
+- [x] Convert notebook into nbdev notebook (incorporate version control and documentation)
 - [ ] Refactor G201 notebook and convert into template
 
 
@@ -18,5 +18,3 @@ Define Schemas to validate data and/or coerce variables into expected format (ba
 - [ ] Define a Schema to validate the variable for both data (type, range of values) and metadata (type, var label, val label)
 
 ## Harmonise G201 
-
-- Change values of 0 to -1 (when 0 means 'related to previous injury')
